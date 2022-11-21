@@ -1,3 +1,3 @@
 Israel Israeli 123456789
-Israela Israeli 012345678
-LINK TO GITHUB HERE
+Noa Shachar Delatizki 209134881
+https://github.com/noashachar/adv-prog-ex1
